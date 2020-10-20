@@ -1,0 +1,81 @@
+#content{
+    width: 100%;
+    margin: auto;
+    height:100%;  
+}
+nav{
+    width: 15.87%;
+    height: 7vmax;
+    float: left;
+    text-align: center;
+    font-size: 5vmax;
+    font-family: 'Piazzolla', serif;
+    line-height:7vmax;
+    margin-top:0px ;
+}
+header{
+    width:84.13%;
+    height: 7vmax;
+    float: right;
+    font-size:2vmax;  
+    margin-top:0px ;
+}
+span{
+    line-height:7vmax;
+}
+main{
+    width:100%;
+}
+#article1ID{
+    width: 100%;
+    height: 25.614%;
+    background-image: url(download.jpg);
+    background-repeat: no-repeat;
+    background-size:100%  45vmax;
+    overflow: hidden;
+}
+#article2ID{
+    float: left;
+    width: 48.48%;
+    margin:0.397%;
+    height:30vmax;
+    display: block; 
+}
+#article3ID{
+    float: left;
+    width: 23.84%;
+    height:25vmax ;
+    background-color: wheat;
+    margin: 0.794%;
+    margin-left:3.974% ;
+    border-radius:20px ;
+}
+#articleID20{
+    width: 100%;
+    height:66vmax;
+    background: #0F2027;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+#article4ID{
+    width: 100%;
+    height:11.6vmax;
+    background-color:white;
+    margin-top: 10px;
+}
+#hassane:hover{
+    color: violet;
+    font-size:2.5vmax ;
+}
+#hassane2:hover{
+    color: violet;
+    font-size:2.5vmax ;
+}
+#hassane3:hover{
+    color: violet;
+    font-size:2.5vmax ;
+}
+#article3ID:hover{
+    background-color: rgb(213, 179, 245);
+
+}

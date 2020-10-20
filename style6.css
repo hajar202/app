@@ -1,0 +1,43 @@
+#content{
+    width: 100%;
+    margin: auto;
+    height:100%;  
+}
+nav{
+    width: 15.87%;
+    height: 7vmax;
+    float: left;
+    text-align: center;
+    font-size: 5vmax;
+    font-family: 'Piazzolla', serif;
+    line-height:7vmax;
+    margin-top:0px ;
+}
+header{
+    width:84.13%;
+    height: 7vmax;
+    float: right;
+    font-size:2vmax;  
+    margin-top:0px ;
+    line-height:7vmax;
+}
+#article1ID{
+    width:100%;
+    height: 44vmax;
+    background-image: url(OppoA31.png);
+    background-repeat: no-repeat;
+    background-size:  100%;
+    margin-top:5.4vmax ;
+}
+#hassane:hover{
+    color: violet;
+    font-size:2.5vmax ;
+}
+#hassane2:hover{
+    color: violet;
+    font-size:2.5vmax ;
+}
+#hassane3:hover{
+    color: violet;
+    font-size:2.5vmax ;
+}

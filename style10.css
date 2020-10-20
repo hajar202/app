@@ -1,0 +1,56 @@
+#content{
+    width: 100%;
+    margin: auto;
+    height:100%;  
+}
+nav{
+    width: 15.87%;
+    height: 7vmax;
+    float: left;
+    text-align: center;
+    font-size: 5vmax;
+    font-family: 'Piazzolla', serif;
+    line-height:7vmax;
+    margin-top:0px ;
+}
+header{
+    width:84.13%;
+    height: 7vmax;
+    float: right;
+    font-size:2vmax;  
+    margin-top:0px ;
+}
+span{
+    line-height:7vmax;
+}
+main{
+    width:100%;
+}
+#article2ID{
+    float: left;
+    width: 48.48%;
+    margin:0.397%;
+    height:30vmax;
+    display: block; 
+}
+main{
+    background: #bc4e9c;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #f80759, #bc4e9c);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #f80759, #bc4e9c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    height:41.5vmax;
+    margin-top:2.6vmax ;
+}
+#hassane:hover{
+    color: violet;
+    font-size:2.5vmax ;
+}
+#hassane2:hover{
+    color: violet;
+    font-size:2.5vmax ;
+}
+#hassane3:hover{
+    color: violet;
+    font-size:2.5vmax ;
+}
+
